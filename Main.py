@@ -4,7 +4,9 @@ import sys
 import Menu
 
 from pygame.locals import *
-
+"""
+:author : OxoGhost
+"""
 
 """
 BLANC = 0
